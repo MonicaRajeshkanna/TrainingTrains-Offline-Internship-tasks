@@ -1,0 +1,7 @@
+print("Generator")
+print("↓")
+print("Fake Images")
+print("↓")
+print("Discriminator")
+print("↓")
+print("Real or Fake")
