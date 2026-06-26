@@ -1,0 +1,5 @@
+print("Data Collection")
+print("Data Preprocessing")
+print("Model Training")
+print("Model Evaluation")
+print("Deployment")
