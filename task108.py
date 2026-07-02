@@ -1,0 +1,18 @@
+completed = 108
+
+print("=" * 40)
+print("AI & ML Internship Completed")
+print("=" * 40)
+print("Total Tasks Completed:", completed)
+print("Skills Learned:")
+print("- Python Programming")
+print("- NumPy & Pandas")
+print("- Data Visualization")
+print("- Machine Learning")
+print("- Natural Language Processing")
+print("- Computer Vision")
+print("- Deep Learning")
+print("- Flask & Streamlit")
+print("- Git & GitHub")
+print("=" * 40)
+print("Congratulations!")
