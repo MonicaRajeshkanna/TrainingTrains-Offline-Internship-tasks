@@ -2,15 +2,22 @@
 
 ## 📌 Project Overview
 
-This repository contains Python programs completed as part of an Artificial Intelligence and Machine Learning Internship. The tasks cover Python programming, data preprocessing, machine learning, natural language processing, computer vision, deep learning, and AI application development.
+This repository contains **108 Python programs** completed as part of an **Artificial Intelligence & Machine Learning Internship**. The tasks cover Python programming, data preprocessing, machine learning, natural language processing, computer vision, deep learning, and AI application development.
+
+---
 
 ## ✅ Tasks Completed
 
-- Task 1 – 20 : Python Basics, NumPy, Pandas, Data Preprocessing
-- Task 21 – 40 : Machine Learning Algorithms, Clustering, NLP
-- Task 41 – 60 : Deep Learning, Computer Vision, OCR, Chatbot
-- Task 61 – 79 : Model Evaluation, Healthcare AI, Agriculture AI, AI Applications
-- Task 80 – 100 : Flask, Streamlit, Generative AI, Deployment Basics
+- **Tasks 1–20:** Python Basics, NumPy, Pandas, Data Preprocessing, Linear Regression
+- **Tasks 21–40:** Machine Learning Algorithms, Clustering, Classification, NLP
+- **Tasks 41–60:** Deep Learning, Computer Vision, OCR, Chatbots, CNN, RNN
+- **Tasks 61–80:** Model Evaluation, AI Applications, Healthcare AI, Smart Agriculture
+- **Tasks 81–100:** Flask, Streamlit, Generative AI, Deployment, Portfolio Projects
+- **Tasks 101–108:** Sentiment Analysis, AI Utilities, Prediction Systems, Internship Completion
+
+**🎯 Total Tasks Completed: 108**
+
+---
 
 ## 🛠 Technologies Used
 
@@ -19,28 +26,35 @@ This repository contains Python programs completed as part of an Artificial Inte
 - Pandas
 - Matplotlib
 - Scikit-learn
-- OpenCV
 - TensorFlow
+- OpenCV
 - NLTK
+- TextBlob
 - Flask
 - Streamlit
+- Git & GitHub
 
-## 📂 Repository Structure
+---
+
+## 📂 Repository Contents
 
 ```
 task1.py
 task2.py
 ...
-task100.py
+task108.py
+README.md
 ```
 
-## ▶️ How to Run
+---
 
-1. Install Python 3.12 or later.
-2. Install the required libraries.
+## 🚀 How to Run
+
+1. Install Python (preferably Python 3.12).
+2. Install the required libraries:
 
 ```bash
-pip install numpy pandas matplotlib scikit-learn opencv-python flask streamlit
+pip install numpy pandas matplotlib scikit-learn tensorflow opencv-python nltk textblob flask streamlit
 ```
 
 3. Run any task:
@@ -49,24 +63,36 @@ pip install numpy pandas matplotlib scikit-learn opencv-python flask streamlit
 python task1.py
 ```
 
-## 📖 Learning Outcomes
+---
 
-Through this internship, I gained practical experience in:
+## 📚 Skills Gained
 
 - Python Programming
-- Data Analysis
+- Data Analysis & Preprocessing
+- Data Visualization
 - Machine Learning
-- Natural Language Processing
-- Computer Vision
 - Deep Learning
-- AI Application Development
+- Natural Language Processing (NLP)
+- Computer Vision
+- Flask Web Applications
+- Streamlit Dashboards
+- AI Model Development
 - Git & GitHub Version Control
+
+---
 
 ## 👩‍💻 Author
 
 **Monica Rajeshkanna**
 
-Artificial Intelligence & Machine Learning Internship
+B.Tech – Artificial Intelligence & Machine Learning
 
 ---
-⭐ Thank you for visiting this repository!
+
+## ⭐ Acknowledgement
+
+This repository was developed as part of an AI & Machine Learning Internship to strengthen practical programming and AI development skills through hands-on implementation of 108 tasks.
+
+---
+
+⭐ *Thank you for visiting this repository!*
