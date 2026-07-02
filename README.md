@@ -85,7 +85,7 @@ python task1.py
 
 **Monica Rajeshkanna**
 
-B.Tech – Artificial Intelligence & Machine Learning
+B.E – Artificial Intelligence & Machine Learning
 
 ---
 
